@@ -8,6 +8,7 @@ To run the program, setup the config.yml file as described below, then run
 
 ``` console
 $ ruby draftresults.rb
+```
 
 The results will show up in a `yahoo-adp.csv` file.
 
