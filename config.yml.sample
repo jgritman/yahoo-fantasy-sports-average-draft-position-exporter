@@ -1,0 +1,6 @@
+# request an oauth api key for the Yahoo API from https://developer.apps.yahoo.com/dashboard/createKey.html
+oauth_key: 
+oauth_secret: 
+
+# look up the game id from http://developer.yahoo.com/fantasysports/guide/game-resource.html#game-resource-desc
+game_id: 
